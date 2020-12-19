@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(6, 2, 36);
+    background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
 }
@@ -14,4 +14,48 @@ header {
 header a {
     color: aquamarine;
     font-size: 16px;
+}
+
+.phonevid {
+    text-align: center;
+}
+
+video {
+    padding: 10px;
+}
+
+#minititle {
+    font-size: 42px;
+    color: white;
+    font-weight: 300;
+}
+
+.tent {
+    text-align: center;
+}
+
+.tent p {
+    color: gray;
+    font-size: 21px;
+}
+
+.tent img {
+    padding: 30px;
+}
+
+footer {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+
+footer a {
+    color: aquamarine;
+}
+
+.copy {
+    text-align: right;
+    color: gray;
+    font-size: 25px;
+    padding-top: 30px;
 }
